@@ -1,4 +1,2 @@
-customer_id,name,total_orders,total_amount
-1,Alice,2,570.0
-2,Bob,2,390.5
-3,Charlie,1,150.75
+order_month,total_revenue
+2024-06,1111.25
